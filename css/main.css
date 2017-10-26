@@ -1,3 +1,326 @@
+body{
+	background-color: 
+	margin:0;
+	padding: 0;
+	text-align: center;
+}
+/* #### aqui va menu ### */
+.contenedor{
+	background-color: #323c53;
+	padding: 30px;
+	overflow: hidden;
+
+}
+.izq{
+	float: left;
+	color: #fff;
+	padding: 5px;
+	text-decoration: none;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 35px;
+
+
+}
+.der{
+	float: right;
+	color: #fff;
+	padding: 5px;
+	text-decoration: none;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
+
+}
+
+
+/* #### INICIO ### */
+.contenedor2 {
+	padding: 30px 30px 100px 30px;
+    outline: 1px solid green;
+	background-color: #00c89e;
+	padding top: 1200px;
+}
+
+.text-star{
+    text-align: center;
+	color: #fff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:60px;
+}
+.asse{
+	display: inline;
+	position: 200px;
+	padding top: 200px;
+
+}
+
+/* #### LINEASYESTRELLAS ### */
+.lineasYestrella{
+	text-align: center;
+	padding-bottom: 12px;
+}
+
+.hr1{
+	width: 100px;
+	height: 5px;
+	background: #fff;
+	border: none;
+	display: inline-block;
+}
+
+.star2{
+	color: #fff;
+	margin: 3px;
+	padding-right: 1px;
+}
+
+.hr2{
+	width: 100px;
+	height: 5px;
+	background: #fff;
+	border: none;
+	display: inline-block;
+}
+.subtitulo{
+	text-align: center;
+	color: #fff;
+	font-family: 'Lato', sans-serif;
+	font-size:30px;
+
+}
+
+/* #### AQUI VA PORTAFOLIO ### */
+.contenedor3{
+	padding: 50px 0px;
+}
+
+.text-port{
+	text-align: center;
+	color: black;
+	font-family: 'Montserrat', sans-serif;
+	font-size:40px;
+}
+
+/* #### LINEASYESTRELLAS-2 ### */
+.lineasYestrella2{
+	text-align: center;
+	padding-bottom: 12px;
+}
+
+.hr1-2{
+	width: 100px;
+	height: 5px;
+	background: #323c53;
+	border: none;
+	display: inline-block;
+}
+
+.star2-2{
+	color: #323c53;
+	margin: 3px;
+	padding-right: 1px;
+}
+
+
+.hr2-2{
+	width: 100px;
+	height: 5px;
+	background:#323c53 ;
+	border: none;
+	display: inline-block;
+}
+
+/* #### AQUI VA GALERIA ### */
+
+.img1, .img2, .img3, .img4, .img5, .img6 {
+	width: 27.5%;
+}
+.galeria1, .galeria2{
+	text-align: center;
+	margin-bottom: 25px;
+}
+.img2, .img5{
+	margin-left: 25px; 
+	margin-right: 25px;
+}
+.segundoGrupo{
+	padding-bottom: 100px;
+}
+
+/* #### AQUI VA ABOUT ### */
+
+.contenedor4{
+
+    padding: 30px 30px 100px 30px;
+	background-color: #00c89e;
+	padding top: 1200px;
+}
+.text-about{
+	text-align: center;
+	color: #fff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:60px;
+}
+/* #### LINEASYESTRELLAS-3 ### */
+.lineasYestrella3{
+	text-align: center;
+	padding-bottom: 12px;
+}
+
+.hr1-3{
+	width: 100px;
+	height: 5px;
+	background: #fff;
+	border: none;
+	display: inline-block;
+}
+
+.star2-3{
+	color: #fff;
+	margin: 3px;
+	padding-right: 1px;
+}
+
+
+.hr2-3{
+	width: 100px;
+	height: 5px;
+	background:#fff;
+	border: none;
+	display: inline-block;
+}
+
+.textos{
+	display: inline-block;
+	width: 400px;
+	height: 400px:
+}
+.textos p{
+    text-align: left;
+	background-color: #00c89e;
+    font-family: 'Lato', sans-serif;
+	font-size: 20px;
+	color: #fff;
+	padding: 30px;
+}
+
+.btn-download{
+
+  color: white;
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #00c89e;
+  border:1px solid white;
+ 
+
+
+/* #### AQUI VA CONTACTME ### */
+.contenedor5{
+	padding: 30px;
+
+
+
+}
+
+.text-cont{
+	text-align: center;
+	color: black;
+	font-family: 'Montserrat', sans-serif;
+	font-size:40px;
+
+}
+
+/* #### LINEASYESTRELLAS-4 ### */
+
+.lineasYestrella4{
+	text-align: center;
+	padding-bottom: 12px;
+}
+
+.hr1-4{
+	width: 100px;
+	height: 5px;
+	background: #323c53;
+	border: none;
+	display: inline-block;
+}
+
+.star2-4{
+	color: #323c53;
+	margin: 3px;
+	padding-right: 1px;
+}
+
+
+.hr2-4{
+	width: 100px;
+	height: 5px;
+	background:#323c53 ;
+	border: none;
+	display: inline-block;
+}
+
+.formulario{
+
+
+	top: 10px;
+	padding-left:260px;
+	margin-top: 0;
+	
+	
+}
+.text-formulario{
+
+
+    font-size: 30px;
+	text-align: left;
+	width: 700px;
+    
+	display: block;
+	margin: center;
+}
+
+
+
+
+
+
 /*
- * Estilos de tu proyecto
- */
+.star-fondo{
+
+	background-color: #00c89e;
+
+}
+
+
+
+ul{
+	outline: 1px solid yellow;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	background-color: #323c53;
+	font-family: 'Montserrat', sans-serif;
+	padding: 20px;
+
+}
+
+li {
+    outline: 1px solid red;	
+    display: inline-block;
+    
+}
+
+a{
+    outline: 1px solid green;
+    text-decoration: none;
+    color: #fff;
+    display: block;
+}
+
+.der{
+	float: left;
+
+}
+.izq{
+    float: right;
+}
